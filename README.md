@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu!
 - 👀 I’m interested in Programming Universe.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning!
 - 😄 Pronouns: He/Him
 
 <!---
